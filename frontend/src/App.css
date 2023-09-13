@@ -1,0 +1,19 @@
+.container {
+  background-color: #3e4148;
+
+  width: 100vw;
+  max-width: 30rem;
+
+  height: 100vh;
+  border-radius: 10px;
+}
+
+.App-header {
+  font-size: calc(10px + 2vmin);
+  color: #91a8d8;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+
